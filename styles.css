@@ -45,7 +45,8 @@ ul {
 .infotext {
     font-size: 14px;
     color: #E5E7EB;
-    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 0;
 }
 
 .leftinfo {
@@ -94,6 +95,7 @@ ul {
 .herotext {
     font-size: 36px;
     color: #f9faf8;
+    font-weight: 900;
 }
 
 .quotesection {
