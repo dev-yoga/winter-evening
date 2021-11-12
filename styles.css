@@ -117,11 +117,13 @@ ul {
     font-size: 24px;
     font-style: italic;
     color: #1f2937;
-    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px; 
 }
 
 .author {
     font-weight: bold;
+    padding-bottom: 40px;
 }
 
 .calltoaction {
@@ -131,7 +133,7 @@ ul {
     padding: 80px;
     padding-left: 80px;
     padding-right: 80px;
-    height: 200px;
+    height: 160px;
 }
 
 .calltoactionbox {
