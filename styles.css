@@ -66,6 +66,7 @@ ul {
     border-radius: 15px;
 }
 
+
 .text {
     padding: 10px;
 }
@@ -83,10 +84,8 @@ ul {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 60px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .herotext {
