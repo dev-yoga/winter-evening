@@ -39,14 +39,13 @@ ul {
     justify-content: center;
     padding: 80px;
     background-color: #1F2937;
-    display: flex;
+    height: 250px;
 }
 
 .infotext {
     font-size: 14px;
     color: #E5E7EB;
     padding-bottom: 10px;
-    padding-top: 0;
 }
 
 .leftinfo {
@@ -90,6 +89,7 @@ ul {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 40px;
+    height: 250px;
 }
 
 .herotext {
@@ -104,6 +104,7 @@ ul {
     align-items: center;
     flex-direction: column;
     padding: 30px;
+    height: 250px;
 }
 
 .quote {
@@ -122,6 +123,7 @@ ul {
     padding: 80px;
     padding-left: 80px;
     padding-right: 80;
+    height: 250px;
 }
 
 .calltoactionbox {
