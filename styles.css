@@ -147,3 +147,15 @@ ul {
 .calltext {
     font-size: 12px;
 }
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+    color: #f9faf8;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 80px;
+    padding-left: 80px;
+    background-color: #1F2937;
+}
+
