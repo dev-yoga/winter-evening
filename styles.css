@@ -59,26 +59,13 @@ ul {
     padding: 40px;
 }
 
-.crop {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    object-position: 50% 50%;
-    border: 2px solid #88b0e9;
-    border-radius: 15px;
-}
-
-
-.text {
-    padding: 10px;
-}
-
 .title {
     font-size: 20px;
     font-weight: 900;
     margin-bottom: 10px;
     text-align: center;
-    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 .container {
@@ -86,10 +73,27 @@ ul {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 40px;
-    height: 250px;
+    height: 200px;
+}
+
+.imagetextcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    font-size: 12px;
+    width: 140px;
+    height: 160px;
+}
+
+.crop {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border: 2px solid #88b0e9;
+    border-radius: 15px;
 }
 
 .herotext {
@@ -108,12 +112,15 @@ ul {
 }
 
 .quote {
-    width: 400px;
-    height: 200px;
+    width: 600px;
     font-size: 30px;
     font-style: italic;
     color: #1f2937;
     padding: 20px;
+}
+
+.author {
+    font-weight: bold;
 }
 
 .calltoaction {
