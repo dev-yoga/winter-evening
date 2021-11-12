@@ -6,6 +6,7 @@
 
 .header {
     display: flex;
+    text-align: center;
     justify-content: space-between;    
     padding: 20px;
     background-color: lightpink;
@@ -23,13 +24,45 @@ ul {
     gap: 16px;
 }
 
-.info {
+.basicinfo {
     display: flex;
-    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
     background-color: lightpink;
+    display: flex;
+    text-align: left;
 }
 
+.leftinfo {
+    width: 200px;
+}
 
 .snowynight {
     width: 300px;
+}
+
+.crop {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    border: 2px solid hotpink;
+    border-radius: 15px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
 }
