@@ -1,5 +1,4 @@
 * {
-    border: 2px hotpink;
     padding: 0;
     margin: 0;
     font-family: 'Nunito', sans-serif;
@@ -9,19 +8,21 @@
     display: flex;
     text-align: center;
     justify-content: space-between;    
-    padding: 20px;
+    padding-top: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
     background-color: #1F2937;
 }
 
 .logo {
-    font-size: 18px;
+    font-size: 16px;
     color: #f9faf8;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 ul {
@@ -36,7 +37,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 60px;
+    padding: 80px;
     background-color: #1F2937;
     display: flex;
 }
@@ -82,7 +83,7 @@ ul {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 50px;
+    padding-top: 20px;
 }
 
 .herotext {
