@@ -42,21 +42,41 @@ ul {
     height: 200px;
 }
 
+.leftinfocontainer {
+    width: 350px;
+}
+
+.herotext {
+    font-size: 36px;
+    color: #f9faf8;
+    font-weight: 900;
+    line-height: 90%;
+}
+
 .infotext {
     font-size: 14px;
     color: #E5E7EB;
     padding-bottom: 10px;
+    padding-top: 5px
 }
 
 .leftinfo {
     width: 300px;
-    padding: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
-
+.snowycontainer {
+    height: 450;
+    width: 300;
+    display: flex;
+    align-content: center;
+    padding-top: 15px
+}
 .snowynight {
-    width: 400px;
-    height: 250px;
-    padding: 40px
+    width: 300px;
+    height: 175px;
+    border-radius: 10px;
+    border: 3px solid #b7bdca;
 }
 
 .title {
@@ -82,7 +102,7 @@ ul {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
     font-size: 12px;
     width: 140px;
     height: 160px;
@@ -95,12 +115,6 @@ ul {
     object-position: 50% 50%;
     border: 2px solid #88b0e9;
     border-radius: 15px;
-}
-
-.herotext {
-    font-size: 36px;
-    color: #f9faf8;
-    font-weight: 900;
 }
 
 .quotesection {
@@ -141,7 +155,7 @@ ul {
     align-items: center;
     justify-content: space-between;
     background-color: #3882f6;
-    width: 600px;
+    width: 500px;
     height: 100px;
     border-radius: 5px;
     color: #E5E7EB;
