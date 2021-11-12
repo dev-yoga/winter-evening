@@ -114,3 +114,36 @@ ul {
     color: #1f2937;
     padding: 20px;
 }
+
+.calltoaction {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+    padding-left: 80px;
+    padding-right: 80;
+}
+
+.calltoactionbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3882f6;
+    width: 600px;
+    height: 100px;
+    border-radius: 5px;
+    color: #E5E7EB;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.callbold {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.calltext {
+    font-size: 12px;
+}
