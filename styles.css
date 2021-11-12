@@ -39,8 +39,12 @@ ul {
     padding: 60px;
     background-color: #1F2937;
     display: flex;
+}
+
+.infotext {
     font-size: 14px;
     color: #E5E7EB;
+    padding: 20px;
 }
 
 .leftinfo {
@@ -59,6 +63,10 @@ ul {
     object-position: 50% 50%;
     border: 2px solid #88b0e9;
     border-radius: 15px;
+}
+
+.text {
+    padding: 10px;
 }
 
 .title {
@@ -80,4 +88,21 @@ ul {
 .herotext {
     font-size: 36px;
     color: #f9faf8;
+}
+
+.quotesection {
+    background-color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.quote {
+    width: 400px;
+    height: 200px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 20px;
 }
