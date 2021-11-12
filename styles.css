@@ -2,6 +2,7 @@
     border: 2px hotpink;
     padding: 0;
     margin: 0;
+    font-family: sans-serif;
 }
 
 .header {
@@ -9,11 +10,18 @@
     text-align: center;
     justify-content: space-between;    
     padding: 20px;
-    background-color: lightpink;
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 18px;
+    color: #f9faf8;
 }
 
 a {
     text-decoration: none;
+    color: #E5E7EB;
+    font-size: 16px;
 }
 
 ul {
@@ -27,19 +35,21 @@ ul {
 .basicinfo {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 60px;
-    background-color: lightpink;
+    background-color: #1F2937;
     display: flex;
-    text-align: left;
+    font-size: 14px;
+    color: #E5E7EB;
 }
 
 .leftinfo {
-    width: 200px;
+    width: 300px;
 }
 
 .snowynight {
-    width: 300px;
+    width: 350px;
+    height: 200px;
 }
 
 .crop {
@@ -47,7 +57,7 @@ ul {
     height: 100px;
     object-fit: cover;
     object-position: 50% 50%;
-    border: 2px solid hotpink;
+    border: 2px solid #88b0e9;
     border-radius: 15px;
 }
 
@@ -65,4 +75,9 @@ ul {
     justify-content: center;
     text-align: center;
     margin: 50px;
+}
+
+.herotext {
+    font-size: 36px;
+    color: #f9faf8;
 }
