@@ -36,7 +36,7 @@ ul {
 .basicinfo {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 80px;
     background-color: #1F2937;
     display: flex;
@@ -50,11 +50,13 @@ ul {
 
 .leftinfo {
     width: 300px;
+    padding: 40px;
 }
 
 .snowynight {
-    width: 350px;
-    height: 200px;
+    width: 400px;
+    height: 250px;
+    padding: 40px;
 }
 
 .crop {
