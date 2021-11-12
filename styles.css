@@ -39,7 +39,7 @@ ul {
     justify-content: center;
     padding: 80px;
     background-color: #1F2937;
-    height: 250px;
+    height: 200px;
 }
 
 .infotext {
@@ -74,6 +74,7 @@ ul {
     justify-content: center;
     text-align: center;
     height: 200px;
+    padding-bottom: 50px;
 }
 
 .imagetextcontainer {
@@ -108,12 +109,12 @@ ul {
     align-items: center;
     flex-direction: column;
     padding: 30px;
-    height: 250px;
+    height: 180px;
 }
 
 .quote {
     width: 600px;
-    font-size: 30px;
+    font-size: 24px;
     font-style: italic;
     color: #1f2937;
     padding: 20px;
@@ -129,8 +130,8 @@ ul {
     justify-content: center;
     padding: 80px;
     padding-left: 80px;
-    padding-right: 80;
-    height: 250px;
+    padding-right: 80px;
+    height: 200px;
 }
 
 .calltoactionbox {
