@@ -185,7 +185,9 @@ ul {
 }
 
 button {
-    padding: 6px 16px;
-    border-radius: 8px
+    padding: 4px 8px;
+    border-radius: 8px;
+    border: none;
+    font-size: 10px
 }
 
