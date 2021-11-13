@@ -184,3 +184,8 @@ ul {
     background-color: #1F2937;
 }
 
+button {
+    padding: 6px 16px;
+    border-radius: 8px
+}
+
